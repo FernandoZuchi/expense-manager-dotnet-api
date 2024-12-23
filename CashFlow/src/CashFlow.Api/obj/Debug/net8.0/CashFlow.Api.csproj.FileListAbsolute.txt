@@ -45,3 +45,4 @@ C:\Users\Fernando Zuchi\Desktop\develop\www\expense-manager-dotnet-api\CashFlow\
 C:\Users\Fernando Zuchi\Desktop\develop\www\expense-manager-dotnet-api\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.pdb
 C:\Users\Fernando Zuchi\Desktop\develop\www\expense-manager-dotnet-api\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.genruntimeconfig.cache
 C:\Users\Fernando Zuchi\Desktop\develop\www\expense-manager-dotnet-api\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\ref\CashFlow.Api.dll
+C:\Users\Fernando Zuchi\Desktop\develop\www\expense-manager-dotnet-api\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\FluentValidation.dll
