@@ -2,6 +2,7 @@
 using CashFlow.Communication.Requests;
 using CashFlow.Application.UseCases.Expenses.Register;
 using CashFlow.Communication.Responses;
+using CashFlow.Exceptions.ExceptionsBase;
 
 namespace CashFlow.Api.Controllers;
 
@@ -18,9 +19,9 @@ public class ExpensesController : ControllerBase
             var response = useCase.Execute(request);
             return Created(string.Empty, response);
         }
-        catch (ArgumentException ex)
+        catch (ErrorOnValidationException ex)
         {
-            var errorResponse = new ResponseErrorJson(ex.Message);
+            var errorResponse = new ResponseErrorJson(ex.Errors);
 
             return BadRequest(ex.Message);
         }
