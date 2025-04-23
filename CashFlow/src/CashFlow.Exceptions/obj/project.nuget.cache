@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nv7dHrwu/1g=",
+  "dgSpecHash": "7EY2hDaHJwU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\www\\expense-manager-dotnet-api\\CashFlow\\src\\CashFlow.Exceptions\\CashFlow.Exceptions.csproj",
+  "projectFilePath": "C:\\Users\\Fernando Zuchi\\Desktop\\develop\\C#\\dotnet-api\\expense-manager-dotnet-api\\CashFlow\\src\\CashFlow.Exceptions\\CashFlow.Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
